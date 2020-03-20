@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/interviews-master/company/company.iml" filepath="$PROJECT_DIR$/interviews-master/company/company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interviews-master/cracking-the-coding-interview/cracking-the-coding-interview.iml" filepath="$PROJECT_DIR$/interviews-master/cracking-the-coding-interview/cracking-the-coding-interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interviews-master/interviews-master.iml" filepath="$PROJECT_DIR$/interviews-master/interviews-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interviews-master/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/interviews-master/leetcode/leetcode.iml" />
+    </modules>
+  </component>
+</project>
